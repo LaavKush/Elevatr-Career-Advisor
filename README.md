@@ -3,6 +3,8 @@
 
 A complete career advisory platform built with **React + Vite + Tailwind** (Frontend) and **Node.js + Express + Python FastAPI** (Backend). It integrates **Firebase Authentication** & **Firestore** for user management and real-time data, along with an AI-powered backend (FastAPI). The project is designed to be hosted on **Amazon EC2** and includes integration with **Gemini AI** (store your Gemini API key securely and use it from the FastAPI AI backend).
 
+🌐 Live Website: [http://52.76.65.88/](http://52.76.65.88/)  
+
 ---
 
 ## Table of contents
@@ -33,8 +35,6 @@ Elevatr is an AI-assisted career guidance platform for students and early-career
 - **Python FastAPI**: AI backend that handles prompts, model orchestration (Gemini), and heavier AI-related tasks (resume review, personalized learning path generation, interview question generation, etc.).
 
 Authentication and realtime user data are powered by Firebase (Auth + Firestore). The app is intended to run on EC2 for production.
-
-🌐 Live Website: [http://52.76.65.88/](http://52.76.65.88/)  
 
 ## Features
 
